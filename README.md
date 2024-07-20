@@ -1,7 +1,4 @@
-# this is it
+# this is my second repository 
 <br>
+author: Noman
 
-#  author: Noman sheikh
-<br>
-
-# dated:20july:
