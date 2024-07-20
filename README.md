@@ -1,4 +1,3 @@
-# this is my second repository 
-<br>
-author: Noman
+# this is called readme file:where we enter the details of our project
+
 
