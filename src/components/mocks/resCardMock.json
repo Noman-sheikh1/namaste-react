@@ -1,0 +1,262 @@
+{
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+    "info": {
+        "id": "127092147",
+        "name": "Roast Chicken Melt Sandwich + Side + Coke",
+        "category": "SUPER SAVER COMBOS - SAVE UPTO 46%",
+        "description": "Enjoy your favourite Grills sandwich with a choice of drink�and�a�cookie.",
+        "imageId": "66f7dfa9d7f0e3b1ad27ced7e673544e",
+        "inStock": 1,
+        "price": 33800,
+        "variants": {},
+        "variantsV2": {},
+        "addons": [
+            {
+                "groupId": "126681183",
+                "groupName": "Choose from Sub",
+                "choices": [
+                    {
+                        "id": "108555027",
+                        "name": "Roast Chicken Melt 15cm (6 inches)",
+                        "inStock": 1,
+                        "isEnabled": 1
+                    }
+                ],
+                "maxAddons": 1,
+                "maxFreeAddons": -1,
+                "minAddons": 1
+            },
+            {
+                "groupId": "126681184",
+                "groupName": "Choice of Bread",
+                "choices": [
+                    {
+                        "id": "108555024",
+                        "name": "White Italian",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "108555025",
+                        "name": "Multigrain",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "110558327",
+                        "name": "Multigrain Honey Oats",
+                        "price": 1000,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "110558287",
+                        "name": "Roasted Garlic",
+                        "price": 1000,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "110558298",
+                        "name": "Parmesan Oregano",
+                        "price": 1000,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    }
+                ],
+                "maxAddons": 1,
+                "maxFreeAddons": -1,
+                "minAddons": 1
+            },
+            {
+                "groupId": "126681186",
+                "groupName": "Choose from Drink",
+                "choices": [
+                    {
+                        "id": "103654943",
+                        "name": "Coke 330ml Can",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "103654945",
+                        "name": "Coke Zero 330ml Can",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "103654942",
+                        "name": "Sprite 330ml Can",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "103654944",
+                        "name": "Thums Up 330ml Can",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "103654946",
+                        "name": "Fanta 330ml Can",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    }
+                ],
+                "maxAddons": 1,
+                "maxFreeAddons": -1,
+                "minAddons": 1
+            },
+            {
+                "groupId": "126681187",
+                "groupName": "Choose from Side",
+                "choices": [
+                    {
+                        "id": "110558338",
+                        "name": "Crispers- Salt n Pepper",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "119199190",
+                        "name": "Oatmeal Raisin Cookie (eggless)",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "119199189",
+                        "name": "Double Dark Chunk Chocolate Cookie (eggless)",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "119199188",
+                        "name": "Dark Chunk Chocolate Cookie (eggless)",
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    }
+                ],
+                "maxAddons": 1,
+                "maxFreeAddons": -1,
+                "minAddons": 1
+            },
+            {
+                "groupId": "126681185",
+                "groupName": "Choose From Add Ons",
+                "choices": [
+                    {
+                        "id": "108555019",
+                        "name": "Smoked Chicken Strips",
+                        "price": 8000,
+                        "inStock": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "108555032",
+                        "name": "Cheese Pull (Mozzarella)",
+                        "price": 5000,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "108555026",
+                        "name": "Cheese Slice",
+                        "price": 3000,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    }
+                ],
+                "maxAddons": 3,
+                "maxFreeAddons": -1
+            },
+            {
+                "groupId": "130024723",
+                "groupName": "Steal Deals @99 (Save upto 34%)",
+                "choices": [
+                    {
+                        "id": "103654917",
+                        "name": "2 Pc Oatmeal Raisin Cookies (SAVE upto Rs51)",
+                        "price": 9900,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "103654916",
+                        "name": "2 Pc Double Dark Choc Cookies (SAVE upto Rs51)",
+                        "price": 9900,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "103654915",
+                        "name": "2 Pc Dark Chunk Choc Cookies (SAVE upto Rs51)",
+                        "price": 9900,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "103654918",
+                        "name": "Chicken Meatball - 5 Pc (SAVE upto Rs40).",
+                        "price": 9900,
+                        "inStock": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "103654919",
+                        "name": "Veg Kebab - 5 Pc (SAVE upto Rs30).",
+                        "price": 9900,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    },
+                    {
+                        "id": "110558334",
+                        "name": "Crispers - Try New (SAVE Rs30)",
+                        "price": 9900,
+                        "inStock": 1,
+                        "isVeg": 1,
+                        "isEnabled": 1
+                    }
+                ],
+                "maxAddons": 6,
+                "maxFreeAddons": -1
+            }
+        ],
+        "itemAttribute": {
+            "vegClassifier": "NONVEG"
+        },
+        "defaultPrice": 33800,
+        "ribbon": {},
+        "showImage": true,
+        "itemBadge": {},
+        "badgesV2": {},
+        "ratings": {
+            "aggregatedRating": {
+                "rating": "3.8",
+                "ratingCount": "3 ratings",
+                "ratingCountV2": "3"
+            }
+        }
+    },
+    "analytics": {},
+    "hideRestaurantDetails": true
+}

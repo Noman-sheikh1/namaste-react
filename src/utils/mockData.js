@@ -1933,5 +1933,5 @@ const resList= [
         "type": "WEBLINK"
       }
     }
-  ];
+   ];
   export default resList;
